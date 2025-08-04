@@ -24,6 +24,4 @@ The goal of this repository is to:
 - Working with `.gitignore` and other config files
 - Using GitHub CLI and integrations
 
-## 🗂 Repository Structure
-
-
+### 🗂 Repository Structure
