@@ -1,6 +1,3 @@
-# Github_learning
-
-Repository for learning github commands and features
 # GitHub Learning Repository
 
 Welcome to my GitHub Learning Repository! This space is dedicated to experimenting with Git and GitHub, learning the best practices of version control, and documenting key concepts and workflows.
